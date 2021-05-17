@@ -10,6 +10,6 @@ I am a Computer Science Junior at BITS Pilani, Pilani campus. I have found my pa
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
 
-![Srujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujan-D&show_icons=true&theme=dark)
+<!-- [Srujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srujan-D&show_icons=true&theme=dark) -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Srujan-D&theme=dark)
