@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science Junior at BITS Pilani, Pilani campus. I have found my passion in robotics, and am always swimming in the vast ocean that robotics is.
+I am a Computer Science Junior at BITS Pilani, Pilani campus. Most of the times, you will find me swimming in the vast ocean that robotics is.
 
 - 🔭 I’m currently working as a research intern at the [A.R.M.S. Lab at IIT Bombay](https://www.sc.iitb.ac.in/robotics/), and also at [CSIR-CEERI Pilani](https://www.ceeri.res.in/). I also work on an Autonomous Quadcopter Project as a part of [Team Robocon](https://bitsrobocon.github.io/) (The Robotics Club at BITS Pilani).
 - 🌱 I’m currently learning concepts of motion and path planning for mobile robotics, although I often dive into SLAM.
